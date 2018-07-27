@@ -1,0 +1,8 @@
+/home/username/Projetos/Notification Pattern/NotificationPattern/obj/Debug/netstandard2.0/NotificationPattern.csproj.CoreCompileInputs.cache
+/home/username/Projetos/Notification Pattern/NotificationPattern/obj/Debug/netstandard2.0/NotificationPattern.AssemblyInfoInputs.cache
+/home/username/Projetos/Notification Pattern/NotificationPattern/obj/Debug/netstandard2.0/NotificationPattern.AssemblyInfo.cs
+/home/username/Projetos/Notification Pattern/NotificationPattern/bin/Debug/netstandard2.0/NotificationPattern.deps.json
+/home/username/Projetos/Notification Pattern/NotificationPattern/bin/Debug/netstandard2.0/NotificationPattern.dll
+/home/username/Projetos/Notification Pattern/NotificationPattern/bin/Debug/netstandard2.0/NotificationPattern.pdb
+/home/username/Projetos/Notification Pattern/NotificationPattern/obj/Debug/netstandard2.0/NotificationPattern.dll
+/home/username/Projetos/Notification Pattern/NotificationPattern/obj/Debug/netstandard2.0/NotificationPattern.pdb
